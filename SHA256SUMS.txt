@@ -1,0 +1,1 @@
+b0ba53b700fbaf8f1b822edf659aa31a639fbb9540f7af8aa746baaf72b11f1c  DSC_Signer_OneClick_Fix.bat
